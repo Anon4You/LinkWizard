@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img.jpg" alt="LinkWixard" width="300"/>
+<img src="img.png" alt="LinkWixard" width="300"/>
 
 **A powerful, zero‑configuration profile link finder for the terminal.**
 
