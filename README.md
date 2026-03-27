@@ -1,7 +1,5 @@
 <div align="center">
-<img src="img.jpg" alt="LinkWixard" width="200"/>
-
-# Link Wizard
+<img src="img.jpg" alt="LinkWixard" width="300"/>
 
 **A powerful, zero‑configuration profile link finder for the terminal.**
 
