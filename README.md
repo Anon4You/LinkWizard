@@ -31,7 +31,7 @@ pkg install linkwizard
 Run the tool with your search term. Use `--help` to view all available options.
 
 ```bash
-python lw.py --help
+linkwizard --help
 ```
 
 ### 🎨 Features
